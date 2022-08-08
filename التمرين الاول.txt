@@ -1,0 +1,11 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    System.out.println(totalGrade(46,50));
+	}
+
+		public static int totalGrade(int x, int y){
+      return (x+y);
+    }
+
+}
